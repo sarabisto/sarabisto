@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sara! 👋</h1>
+<h1 align="center">Hi, I'm Sara! </h1>
 
 <h2 align="center">Languages and Tools</h2>
 
