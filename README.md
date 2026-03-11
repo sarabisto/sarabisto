@@ -7,6 +7,9 @@
 </p>
 
 <h2 align="center">Connect with me</h2>
+
 <p align="center">
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sara-bistoncini-a79518349/)
+<a href="https://www.linkedin.com/in/sara-bistoncini-a79518349/">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+</a>
 </p>
