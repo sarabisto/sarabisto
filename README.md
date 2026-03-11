@@ -7,7 +7,7 @@
 ## Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,java,kotlin,js,html,swift,sqlite,git,nodejs,postgres, firebase" />
+<img src="https://skillicons.dev/icons?i=python,c,java,kotlin,js,nodejs,html,swift,git,firebase,sqlite,postgres&perline=6" />
 </p>
 
 ## Connect with me
