@@ -1,16 +1,15 @@
-## Hi there 👋
+## GitHub Stats
 
-<!--
-**sarabisto/sarabisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarabisto&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarabisto&layout=compact&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,java,kotlin,js,html,ejs,swift,SQL,git,nodejs," />
+</p>
+
+## Connect with me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sara-bistoncini-a79518349/)
