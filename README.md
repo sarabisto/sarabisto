@@ -3,7 +3,7 @@
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,java,kotlin,js,nodejs,html,css,swift,git,bootstrap,firebase,sqlite,postgres&theme=light&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,c,java,kotlin,js,nodejs,html,css,swift,git,bootstrap,firebase,mysql,sqlite,postgres&theme=light&perline=7" />
 </p>
 
 <h2 align="center">GitHub Stats</h2>
